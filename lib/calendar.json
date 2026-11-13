@@ -1,0 +1,442 @@
+{
+    "2026-08-24": {
+        "semaine": 1,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-08-25": {
+        "semaine": 1,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-08-26": {
+        "semaine": 1,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-08-27": {
+        "semaine": 1,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-08-28": {
+        "semaine": 1,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-08-31": {
+        "semaine": 2,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-09-01": {
+        "semaine": 2,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-09-02": {
+        "semaine": 2,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-09-03": {
+        "semaine": 2,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-09-04": {
+        "semaine": 2,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-09-07": {
+        "semaine": null,
+        "jour_semaine": 1,
+        "special": "C"
+    },
+    "2026-09-08": {
+        "semaine": 3,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-09-09": {
+        "semaine": 3,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-09-10": {
+        "semaine": 3,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-09-11": {
+        "semaine": 3,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-09-14": {
+        "semaine": 3,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-09-15": {
+        "semaine": 4,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-09-16": {
+        "semaine": 4,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-09-17": {
+        "semaine": 4,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-09-18": {
+        "semaine": 4,
+        "jour_semaine": 5,
+        "special": "D"
+    },
+    "2026-09-21": {
+        "semaine": 4,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-09-22": {
+        "semaine": 5,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-09-23": {
+        "semaine": 5,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-09-24": {
+        "semaine": 5,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-09-25": {
+        "semaine": 5,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-09-28": {
+        "semaine": 5,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-09-29": {
+        "semaine": 6,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-09-30": {
+        "semaine": 6,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-10-01": {
+        "semaine": 6,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-10-02": {
+        "semaine": 6,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-10-05": {
+        "semaine": null,
+        "jour_semaine": 1,
+        "special": "Élec"
+    },
+    "2026-10-06": {
+        "semaine": 6,
+        "jour_semaine": 1,
+        "special": "L"
+    },
+    "2026-10-07": {
+        "semaine": 7,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-10-08": {
+        "semaine": 7,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-10-09": {
+        "semaine": 7,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-10-12": {
+        "semaine": null,
+        "jour_semaine": 1,
+        "special": "C"
+    },
+    "2026-10-13": {
+        "semaine": null,
+        "jour_semaine": 2,
+        "special": "TP"
+    },
+    "2026-10-14": {
+        "semaine": null,
+        "jour_semaine": 3,
+        "special": "TP"
+    },
+    "2026-10-15": {
+        "semaine": null,
+        "jour_semaine": 4,
+        "special": "TP"
+    },
+    "2026-10-16": {
+        "semaine": null,
+        "jour_semaine": 5,
+        "special": "TP"
+    },
+    "2026-10-19": {
+        "semaine": 7,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-10-20": {
+        "semaine": 7,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-10-21": {
+        "semaine": 8,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-10-22": {
+        "semaine": 8,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-10-23": {
+        "semaine": 8,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-10-26": {
+        "semaine": 8,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-10-27": {
+        "semaine": 8,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-10-28": {
+        "semaine": 9,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-10-29": {
+        "semaine": 9,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-10-30": {
+        "semaine": 9,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-11-02": {
+        "semaine": 9,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-11-03": {
+        "semaine": 9,
+        "jour_semaine": 2,
+        "special": "A"
+    },
+    "2026-11-04": {
+        "semaine": 10,
+        "jour_semaine": 3,
+        "special": "PO"
+    },
+    "2026-11-05": {
+        "semaine": 10,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-11-06": {
+        "semaine": 10,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-11-09": {
+        "semaine": 10,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-11-10": {
+        "semaine": 10,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-11-11": {
+        "semaine": 11,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-11-12": {
+        "semaine": 11,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-11-13": {
+        "semaine": 11,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-11-16": {
+        "semaine": 11,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-11-17": {
+        "semaine": 11,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-11-18": {
+        "semaine": 12,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-11-19": {
+        "semaine": 12,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-11-20": {
+        "semaine": 12,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-11-23": {
+        "semaine": 12,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-11-24": {
+        "semaine": 12,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-11-25": {
+        "semaine": 13,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-11-26": {
+        "semaine": 13,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-11-27": {
+        "semaine": 13,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-11-30": {
+        "semaine": 13,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-12-01": {
+        "semaine": 13,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-12-02": {
+        "semaine": 14,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-12-03": {
+        "semaine": null,
+        "jour_semaine": 4,
+        "special": "TP"
+    },
+    "2026-12-04": {
+        "semaine": 14,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-12-07": {
+        "semaine": 14,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-12-08": {
+        "semaine": 14,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-12-09": {
+        "semaine": 15,
+        "jour_semaine": 3,
+        "special": ""
+    },
+    "2026-12-10": {
+        "semaine": 14,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-12-11": {
+        "semaine": 15,
+        "jour_semaine": 5,
+        "special": ""
+    },
+    "2026-12-14": {
+        "semaine": 15,
+        "jour_semaine": 1,
+        "special": ""
+    },
+    "2026-12-15": {
+        "semaine": 15,
+        "jour_semaine": 2,
+        "special": ""
+    },
+    "2026-12-16": {
+        "semaine": null,
+        "jour_semaine": 3,
+        "special": "EUF"
+    },
+    "2026-12-17": {
+        "semaine": 15,
+        "jour_semaine": 4,
+        "special": ""
+    },
+    "2026-12-18": {
+        "semaine": null,
+        "jour_semaine": 5,
+        "special": "EC"
+    },
+    "2026-12-21": {
+        "semaine": null,
+        "jour_semaine": 1,
+        "special": "EC"
+    },
+    "2026-12-22": {
+        "semaine": null,
+        "jour_semaine": 2,
+        "special": "EC"
+    },
+    "2026-12-23": {
+        "semaine": null,
+        "jour_semaine": 3,
+        "special": "EC"
+    }
+}
