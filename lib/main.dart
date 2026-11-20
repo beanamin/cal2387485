@@ -1,3 +1,4 @@
+import 'package:cal2387485/Widgets/calendarBody.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -45,31 +46,35 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         
         child: OrientationBuilder(builder: (context, orientation) {
-          return Column(
-            mainAxisAlignment: MainAxisAlignment.start,
-            children: [
-              Flexible(
-                flex: 1,
-                child: Wrap(
-                  spacing: 10,
-                  children: [
-                    Text("D: Date limite de désinscription aux cours sans mention au bulletin"),
-                    Text("Élec: Journée des Élections"),
-                    Text("L: Horaire du Lundi"),
-                    Text("C: Congé"),
-                    Text("TP: Journée de travail personnel pour les étudiant.e.s"),
-                    Text("A: Date limite pour abandonner un cours sans mention d'échec"),
-                    Text("PO: Portes ouvertes (horaire des cours habituel)"),
-                    Text("EUF: Épreuve uniforme de français"),
-                    Text("EC: Évaluation commune"),
-                  ],
+          return 
+          Padding(padding: const EdgeInsets.all(12.0),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.start,
+              children: [
+                Flexible(
+                  flex: 1,
+                  fit: FlexFit.tight,
+                  child: Container(
+                    child: Text(
+                      "C : Congé | "
+                      "D : Limite pour les désinscriptions | "
+                      "A : Limite pour les abandons | "
+                      "Elec: Élections | "
+                      "TP: Journée TP | "
+                      "PO: Journée portes ouvertes | "
+                      "EUF: Épreuve Uniforme de Français | "
+                      "EC: Évaluations Communes",
+                      overflow: TextOverflow.clip,
+                    ),
+                  ),
+                ), 
+                SizedBox(height: 10,),
+                Flexible(
+                  flex: 9,
+                  child: CalendarBody()
                 )
-              ),
-               Flexible(
-                flex: 9,
-                child: Text("") //Replace with CalenderBody() when ready
-              )
-            ],
+              ],
+            )
           );
         })
       ),
